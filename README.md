@@ -6,7 +6,7 @@ This repository contains our implementation of our papers flocking simulation.
 
 
 https://github.com/user-attachments/assets/9b423128-a063-4f72-8b6b-8bf08f1c9c03
-
+Alternative address: https://www.youtube.com/watch?v=Oqa_F1TSitc
 
 
 ## Prerequisites

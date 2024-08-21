@@ -5,9 +5,6 @@
 This repository contains our implementation of our papers flocking simulation.
 
 
-https://github.com/Zhourobotics/llms-for-flocking/assets/55445872/7c6c584d-1350-48a3-94b4-f36e4e074728
-
-
 https://github.com/user-attachments/assets/9b423128-a063-4f72-8b6b-8bf08f1c9c03
 
 

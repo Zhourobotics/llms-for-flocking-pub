@@ -46,3 +46,5 @@ example: main.py --mode run --name mytest
                  -r "Your position is: [{}]. The positions of the other drones (in the format [[x, y], [x, y]...]) are: [{}]. Pick a position to move to, and briefly explain the reasoning behind your decision."
                  --x_min -10 --x_max 30 --x_ticks 5 --y_min 0 --y_max 20
 ```
+
+With any questions about the code, please get in touch with Peihan Li at pl525(at)drexel.edu
